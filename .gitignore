@@ -1,0 +1,8 @@
+# 只發布單一 HTML，其餘為本機工作檔
+_archive/
+chapters/
+*.bak
+*.bak2
+*.bak3
+烤肉趴.html
+烤肉趴_食材與料理.md
